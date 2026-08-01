@@ -310,11 +310,11 @@ button:hover{
 }
 
 .footer{
-    background:#f8f8f8;
+    background:white;
     width:100%;
     padding:15px 8% 5px;
     margin-top:15px;
-    border-top:1px solid #ddd;
+    border-top:1px solid white;
 }
 
 .footer img{
